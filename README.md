@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharv Sankpal  
 
-<img src="images/profile-photo.jpeg" alt="Atharv Sankpal" width="250" align="center"/>  
+<img src="MyImg.jpeg" alt="Atharv Sankpal" width="250" align="center"/>  
 
 🎓 Master's in Information Systems (SDSU)  
 📊 Data Analyst | Business Intelligence | Machine Learning  
