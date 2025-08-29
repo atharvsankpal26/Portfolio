@@ -1,73 +1,79 @@
-# Atharv Sankpal  
+# 👋 Hey there, I'm Atharv Sankpal  
 
-✨ Data Analyst | BI Developer | Machine Learning Enthusiast  
-
----
-
-## About Me  
-Curious mind with a passion for turning data into stories that matter. My work spans across healthcare, supply chain, and research, where I’ve built **ETL pipelines, dashboards, and ML models** to solve real-world problems. Always learning, always building.  
+🎓 MS in Information Systems (SDSU, 2025)  
+💻 Data Analyst | 📊 BI & ML Enthusiast | 🚀 Always Learning  
 
 ---
 
-## Skills  
-
-🛠 **Programming**: Python, SQL, R, Java, C, C++  
-📊 **Data Analysis**: NumPy, Pandas, Matplotlib, Seaborn, PySpark, Databricks, Looker  
-📌 **Visualization**: Power BI, Tableau, Alteryx, Excel  
-☁️ **Cloud & Databases**: Snowflake, PostgreSQL, MySQL, MongoDB, GCP, AWS (EC2, S3, RDS, Lambda, SageMaker), Azure  
-🔎 **Machine Learning**: Regression, Clustering, NLP, Deep Learning, scikit-learn  
+## 🚀 About Me  
+- Passionate about solving problems with **data-driven insights** in healthcare, supply chain, and research.  
+- Experienced with **ETL pipelines, SQL, BI dashboards, and machine learning models**.  
+- Love turning raw data into stories that drive smarter decisions.  
 
 ---
 
-## Experience  
+## 🛠️ Tech Stack  
 
-**Data Science Researcher — NanoFAB.SDSU** *(2024)*  
-- Built a **550+ image dataset** and applied clustering with OpenCV/scikit-learn, reducing analysis time by 4 hrs/cycle.  
-- Applied **PCA & t-SNE** to reveal linguistic structures, improving detection accuracy by 25%.  
-- Developed **interactive visualizations** in mpld3 & Plotly, cutting insight time by 40%.  
-
-**Business Data Intelligence Analyst — MPACER Solutions** *(2023)*  
-- Analyzed **40K+ procurement/inventory records** with SQL/Excel, improving reporting accuracy by 20%.  
-- Designed **8+ dashboards** in Power BI/Tableau, saving 6 hrs/week in manual reporting.  
-- Automated **ETL workflows** in Python/SQL, increasing data availability by 30%.  
-
-**Health Care Data Analyst — Atharva Medtech** *(2022)*  
-- Built **ETL pipelines** in SQL/Snowflake for 200K+ EHR records, halving processing time.  
-- Analyzed **100K+ patient records** to identify outcome-driven trends.  
-- Built **10+ dashboards** tracking vitals, utilization & KPIs for healthcare teams.  
+- **Languages:** Python 🐍, SQL, R, Java, C, C++  
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, PySpark, Databricks, Looker  
+- **Visualization:** Power BI 📊, Tableau 📈, Alteryx, Excel  
+- **Cloud & Databases:** Snowflake ❄️, PostgreSQL, MySQL, MongoDB, AWS ☁️, GCP, Azure  
+- **ML/AI:** Regression, Clustering, NLP, Deep Learning, scikit-learn 🤖  
 
 ---
 
-## Projects  
+## 💼 Experience  
 
-📌 **Financial Fraud Prevention**  
-Logistic Regression with PCA + undersampling → **91.8% test accuracy**  
+**🔹 Data Science Researcher — NanoFAB.SDSU**  
+*(Jan 2024 – Dec 2024)*  
+- Built 550+ image dataset, applied clustering (OpenCV, scikit-learn), saving 4 hrs/cycle.  
+- Created interactive visualizations (mpld3, Plotly), reducing analysis time by 40%.  
+- Applied PCA & t-SNE to uncover linguistic patterns, improving detection accuracy by 25%.  
 
-📌 **AI-Driven Inventory Forecasting**  
-Hybrid Random Forest + VAE forecasting system with Streamlit dashboards → **95%+ service levels**  
+**🔹 Business Data Intelligence Analyst — MPACER Solutions**  
+*(Jan 2023 – Jul 2023)*  
+- Analyzed 40K+ procurement/inventory records with SQL/Excel, increasing accuracy by 20%.  
+- Designed 8+ Power BI/Tableau dashboards, saving ~6 hrs/week in manual reporting.  
+- Automated ETL workflows in Python/SQL, boosting data availability by 30%.  
 
-📌 **Predicting Diabetes with ML**  
-Logistic Regression & SVM on PIMA dataset → **76% test accuracy**  
-
----
-
-## Certifications  
-
-📚 **Alteryx Machine Learning Fundamentals Micro-Credential**  
-📚 **Alteryx Foundational Micro-Credential**  
-📚 **Alteryx Designer Core Certification**  
-📚 **Advanced Tableau Certification**  
-📚 **Databases and SQL for Data Science** (Coursera/IBM)  
-📚 **Python for Data Science and AI** (Coursera/IBM)  
-📚 **Google Data Analytics** (Coursera)  
-📚 **AWS Cloud Practitioner (in progress)**  
+**🔹 Health Care Data Analyst — Atharva Medtech**  
+*(Feb 2022 – Dec 2022)*  
+- Developed ETL pipelines (SQL/Snowflake) to process 200K+ EHR records, halving processing time.  
+- Analyzed 100K+ patient records to identify healthcare trends under HIPAA compliance.  
+- Built 10+ dashboards on vitals & KPIs, improving hospital reporting clarity.  
 
 ---
 
-## Connect with Me  
+## 📂 Featured Projects  
 
-📧 Email: [atharvsankpal@gmail.com](mailto:atharvsankpal@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/atharvsankpal](https://www.linkedin.com/in/atharvsankpal/)  
-🖥 GitHub: [github.com/atharvsankpal26](https://github.com/atharvsankpal26)  
+- **[Financial Fraud Prevention: ML Risk Analysis](#)**  
+  Logistic Regression + PCA, achieving **91.8% test accuracy**.  
+
+- **[AI-Driven Inventory Forecasting](#)**  
+  Hybrid Random Forest + VAE with Streamlit dashboards, maintaining **95%+ service levels**.  
+
+- **[Predicting Diabetes with ML](#)**  
+  Logistic Regression & SVM on PIMA dataset, with **76% test accuracy**.  
 
 ---
+
+## 🏅 Certifications  
+
+- 🎖️ **Alteryx Designer Core Certification**  
+- 🎖️ **Alteryx Machine Learning Fundamentals Micro-Credential**  
+- 🎖️ **Alteryx Foundational Micro-Credential**  
+- 🎖️ **Databases and SQL for Data Science** (IBM)  
+- 🎖️ **Python for Data Science and AI** (IBM)  
+- 🎖️ **Google Data Analytics (Coursera)**  
+- 🎖️ **Advanced Tableau**  
+
+---
+
+## 📫 Let’s Connect!  
+
+- 📧 [atharvsankpal@gmail.com](mailto:atharvsankpal@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/atharvsankpal/)  
+- 🖥️ [GitHub](https://github.com/atharvsankpal26)  
+
+---
+✨ *“Data is a story waiting to be told — I’m here to tell it.”*  
