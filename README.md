@@ -1,7 +1,9 @@
 # 👋 Hey there, I'm Atharv Sankpal  
+![Header Image](https://github.com/atharvsankpal26/atharvsankpal26/blob/main/assets/header.png)  
 
 🎓 MS in Information Systems (SDSU, 2025)  
 💻 Data Analyst | 📊 BI & ML Enthusiast | 🚀 Always Learning  
+![Header Image](https://github.com/atharvsankpal26/atharvsankpal26/blob/main/assets/header.png)  
 
 ---
 
