@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Atharv Sankpal  
 
-<img src="MyImg.jpeg" alt="Atharv Sankpal" width="250" align="center"/>  
-
 🎓 Master's in Information Systems (SDSU)  
 📊 Data Analyst | Business Intelligence | Machine Learning  
 💻 SQL • Python • Power BI • Tableau • Snowflake • AWS  
