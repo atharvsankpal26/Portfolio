@@ -1,81 +1,48 @@
-# 👋 Hey there, I'm Atharv Sankpal  
-![Header Image](https://github.com/atharvsankpal26/atharvsankpal26/blob/main/assets/header.png)  
+# Hi, I'm Atharv Sankpal! 👋  
 
-🎓 MS in Information Systems (SDSU, 2025)  
-💻 Data Analyst | 📊 BI & ML Enthusiast | 🚀 Always Learning  
-![Header Image](https://github.com/atharvsankpal26/atharvsankpal26/blob/main/assets/header.png)  
+![Profile Picture](https://github.com/your-username/your-repo/blob/main/WhatsApp%20Image%202025-08-08%20at%2011.47.32%20AM%20(2).jpeg)
 
----
-
-## 🚀 About Me  
-- Passionate about solving problems with **data-driven insights** in healthcare, supply chain, and research.  
-- Experienced with **ETL pipelines, SQL, BI dashboards, and machine learning models**.  
-- Love turning raw data into stories that drive smarter decisions.  
+🎓 **Master of Science in Information Systems** (San Diego State University)  
+💻 Data Analyst | Business Intelligence | Machine Learning Enthusiast  
+📊 Skilled in **Python, SQL, Power BI, Tableau, Snowflake, ETL, and Cloud Technologies**  
+🌍 Passionate about solving problems with data-driven insights & AI  
 
 ---
 
-## 🛠️ Tech Stack  
-
-- **Languages:** Python 🐍, SQL, R, Java, C, C++  
-- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, PySpark, Databricks, Looker  
-- **Visualization:** Power BI 📊, Tableau 📈, Alteryx, Excel  
-- **Cloud & Databases:** Snowflake ❄️, PostgreSQL, MySQL, MongoDB, AWS ☁️, GCP, Azure  
-- **ML/AI:** Regression, Clustering, NLP, Deep Learning, scikit-learn 🤖  
-
----
-
-## 💼 Experience  
-
-**🔹 Data Science Researcher — NanoFAB.SDSU**  
-*(Jan 2024 – Dec 2024)*  
-- Built 550+ image dataset, applied clustering (OpenCV, scikit-learn), saving 4 hrs/cycle.  
-- Created interactive visualizations (mpld3, Plotly), reducing analysis time by 40%.  
-- Applied PCA & t-SNE to uncover linguistic patterns, improving detection accuracy by 25%.  
-
-**🔹 Business Data Intelligence Analyst — MPACER Solutions**  
-*(Jan 2023 – Jul 2023)*  
-- Analyzed 40K+ procurement/inventory records with SQL/Excel, increasing accuracy by 20%.  
-- Designed 8+ Power BI/Tableau dashboards, saving ~6 hrs/week in manual reporting.  
-- Automated ETL workflows in Python/SQL, boosting data availability by 30%.  
-
-**🔹 Health Care Data Analyst — Atharva Medtech**  
-*(Feb 2022 – Dec 2022)*  
-- Developed ETL pipelines (SQL/Snowflake) to process 200K+ EHR records, halving processing time.  
-- Analyzed 100K+ patient records to identify healthcare trends under HIPAA compliance.  
-- Built 10+ dashboards on vitals & KPIs, improving hospital reporting clarity.  
+## 🔧 Technical Skills  
+- **Programming & Data**: Python, SQL, R, Java, C++  
+- **Analytics & ML**: Scikit-Learn, NLP, PCA, t-SNE, Random Forest, Logistic Regression  
+- **Visualization**: Tableau, Power BI, Plotly, mpld3  
+- **Cloud & Databases**: Snowflake, MySQL, MongoDB, PostgreSQL, AWS (EC2, S3, RDS, SageMaker), Azure, GCP  
+- **Workflow Tools**: GitHub, Alteryx, Excel, ETL Pipelines  
 
 ---
 
-## 📂 Featured Projects  
-
-- **[Financial Fraud Prevention: ML Risk Analysis](#)**  
-  Logistic Regression + PCA, achieving **91.8% test accuracy**.  
-
-- **[AI-Driven Inventory Forecasting](#)**  
-  Hybrid Random Forest + VAE with Streamlit dashboards, maintaining **95%+ service levels**.  
-
-- **[Predicting Diabetes with ML](#)**  
-  Logistic Regression & SVM on PIMA dataset, with **76% test accuracy**.  
+## 🏆 Certifications  
+- 🎖️ Alteryx **Machine Learning Fundamentals Micro-Credential**  
+- 🎖️ Alteryx **Foundational Micro-Credential**  
+- 🎖️ Alteryx **Designer Core Certification**  
+- 📜 **Databases and SQL for Data Science**  
+- 📜 **Python for Data Science and AI**  
 
 ---
 
-## 🏅 Certifications  
+## 🚀 Projects  
+- **Financial Fraud Prevention (ML-Based Risk Analysis System)** 🔒  
+  Built Logistic Regression model on imbalanced data using PCA & undersampling, achieving **91.8% accuracy**.  
 
-- 🎖️ **Alteryx Designer Core Certification**  
-- 🎖️ **Alteryx Machine Learning Fundamentals Micro-Credential**  
-- 🎖️ **Alteryx Foundational Micro-Credential**  
-- 🎖️ **Databases and SQL for Data Science** (IBM)  
-- 🎖️ **Python for Data Science and AI** (IBM)  
-- 🎖️ **Google Data Analytics (Coursera)**  
-- 🎖️ **Advanced Tableau**  
+- **AI-Driven Inventory Forecasting & Optimization** 📦  
+  Designed hybrid **Random Forest + VAE** forecasting system, boosting resilience and maintaining **95%+ service levels**.  
 
----
-
-## 📫 Let’s Connect!  
-
-- 📧 [atharvsankpal@gmail.com](mailto:atharvsankpal@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/atharvsankpal/)  
-- 🖥️ [GitHub](https://github.com/atharvsankpal26)  
+- **Script Pattern Analysis** ✍️  
+  Built **550+ image dataset**, applied PCA, t-SNE & clustering with Python to uncover cross-script linguistic structures, cutting analysis time by **4 hours per cycle**.  
 
 ---
-✨ *“Data is a story waiting to be told — I’m here to tell it.”*  
+
+## 📫 Connect with Me  
+- ✉️ Email: [atharvsankpal@gmail.com](mailto:atharvsankpal@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/atharvsankpal](https://www.linkedin.com/in/atharvsankpal/)  
+- 🖥️ GitHub: [github.com/atharvsankpal26](https://github.com/atharvsankpal26?tab=repositories)  
+
+---
+✨ _“Data tells a story — I make sure it’s heard.”_
