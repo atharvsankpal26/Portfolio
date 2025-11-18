@@ -38,7 +38,7 @@
 ---
 
 ## 🌐 Connect with Me
-- 📄 [Atharv-Resume](https://drive.google.com/file/d/1gklshfA1AV8Px4HL5f-TkAKM-7e5P4ux/view?usp=drive_link)
+- 📄 [[Atharv-Resume](https://drive.google.com/file/d/1_mvJZht__RzBzMEGrhkPd0kTaRrdEsqr/view)
 - 📧 [atharvsankpal@gmail.com](mailto:atharvsankpal@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/atharvsankpal/)  
 - 🖥 [GitHub](https://github.com/atharvsankpal26?tab=repositories)  
